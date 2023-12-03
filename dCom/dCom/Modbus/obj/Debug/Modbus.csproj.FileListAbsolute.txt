@@ -1,0 +1,27 @@
+C:\Users\Nevena\Downloads\scada materijali\scada materijali\dCom\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\Nevena\Downloads\scada materijali\scada materijali\dCom\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\Nevena\Downloads\scada materijali\scada materijali\dCom\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\Nevena\Downloads\scada materijali\scada materijali\dCom\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\Nevena\Downloads\scada materijali\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\Nevena\Downloads\scada materijali\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\Downloads\scada materijali\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\Nevena\Downloads\scada materijali\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\Nevena\Downloads\scada materijali\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.pdb
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada materijali\dCom\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada materijali\dCom\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada materijali\dCom\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada materijali\dCom\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.pdb
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada\dCom\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada\dCom\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada\dCom\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada\dCom\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada\dCom\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\Nevena\OneDrive\Radna površina\SCADA\scada\dCom\dCom\Modbus\obj\Debug\Modbus.pdb

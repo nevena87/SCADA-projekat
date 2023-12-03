@@ -1,0 +1,8 @@
+STA 15
+TCP 25252
+
+DO_REG  1 2000  0  0      1     0  DO  @Stop       1  #  #  #  #     1  #     #
+DO_REG  1 2002  0  0      1     0  DO  @Ventil     1  #  #  #  #     1  #     #
+DO_REG  1 2005  0  0      1     0  DO  @Prekidac1  1  #  #  #  #     1  #     #
+DO_REG  1 2006  0  0      1     0  DO  @Prekidac2  1  #  #  #  #     1  #     #
+HR_INT  1 1000  0  0  12000  6500  AO  @NivoVode   1  1  0  0  12000 #  3000  10500
