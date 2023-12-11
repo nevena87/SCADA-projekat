@@ -1,1 +1,1 @@
-# Projekat iz predmeta Akviziciono upravljacki sistemi
+# Projekat iz predmeta Akviziciono upravljački sistemi
